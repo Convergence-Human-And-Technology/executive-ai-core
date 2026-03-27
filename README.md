@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/convergence-human-technology/executive-ai-core/raw/main/ExecAI-executive-ai-core-co.png" alt="ExecAI - A Minimal Executive AI" width="100%" height="100%">
+  <img src="https://github.com/convergence-human-technology/executive-ai-core/main/ExecAI-executive-ai-core-co.png" alt="ExecAI - A Minimal Executive AI" width="100%" height="100%">
 </p>
 
 # ExecAI - A Minimal Executive AI
