@@ -17,7 +17,9 @@ Built by [Convergence - Human And Technology](https://github.com/Convergence-Hum
 The entire logic fits in one Python file with fewer than 90 lines of code.
 Every concept, every line, every choice is explained.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Table of Contents
 
@@ -34,7 +36,9 @@ Every concept, every line, every choice is explained.
 11. [License](#11-license)
 12. [Contact](#12-contact)
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 1. What is this project ?
 
@@ -51,7 +55,9 @@ This project is for you if :
 
 There is no magic here. Just Python, one API call per step, and clear comments.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 2. What is an Executive AI ?
 
@@ -76,7 +82,9 @@ In code, this breaks down into three phases :
 
 The key insight is that we use the same AI model for both phases. What changes is the system prompt we give it. The AI does not "know" it is an agent. We create that behavior through prompt design.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 3. Core Concepts
 
@@ -98,7 +106,9 @@ AI models do not process words, they process tokens. A token is roughly three qu
 
 An environment variable is a value stored in your operating system, outside of your code. We use one called `ANTHROPIC_API_KEY` to store the API key. This is the standard practice for secrets. If you write the key directly in your Python file and push it to GitHub, it becomes public. Environment variables prevent that.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 4. Project Structure
 
@@ -133,7 +143,9 @@ executive-ai-core/
 
 Where to start : open `src/main/executive_ai.py`. That file is the entire project. Everything else supports it.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 5. Prerequisites
 
@@ -147,7 +159,9 @@ No other tools, frameworks, or services are required.
 
 The free tier of the Anthropic API is enough to run this project. A typical execution (5 steps) costs a fraction of a cent.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 6. Installation
 
@@ -195,7 +209,9 @@ Or run the setup script, which handles everything :
 bash scripts/setup.sh
 ```
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 7. Usage
 
@@ -240,7 +256,9 @@ Phase 2 - Execution
 Done. 5 step(s) completed.
 ```
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 8. How It Works
 
@@ -280,7 +298,9 @@ Notice that the whole system makes N+1 API calls where N is the number of steps 
 
 More advanced agents add memory (storing past actions), tool use (calling external APIs), and error recovery (retrying failed steps). Those are the next things to explore once you understand this baseline.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 9. Running Tests
 
@@ -311,7 +331,9 @@ Ran 4 tests in 0.003s
 OK
 ```
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 10. Contributing
 
@@ -325,7 +347,9 @@ Good first issues for beginners :
 - Write tests for the `run()` function using mocking
 - Add support for a second AI provider (OpenAI, Mistral, or Ollama for local models)
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 11. License
 
@@ -333,7 +357,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for the f
 
 MIT means : you can use, copy, modify, and distribute this code freely, for any purpose, as long as you include the original license notice. You do not need to ask permission.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## 12. Contact
 
@@ -346,6 +372,8 @@ Project maintained by [Convergence - Human And Technology](https://github.com/Co
 - [Facebook : Convergence - Human And Technology](https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894/)
 - [GitHub : Convergence - Human And Technology](https://github.com/Convergence-Human-And-Technology)
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 Last updated : 27/03/2026
